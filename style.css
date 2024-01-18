@@ -1,0 +1,23 @@
+.card {
+    margin: 2rem 0;
+    width: 15rem;
+    height: 20rem;
+    background-color: grey;
+}
+
+.photo {
+    width: 15rem;
+    height: 20rem;
+}
+
+.count {
+    margin: 1rem 0;
+}
+
+.btn-show {
+    margin: 1rem 0;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: black;
+    color: white;
+}
